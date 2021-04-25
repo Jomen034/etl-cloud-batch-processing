@@ -1,5 +1,5 @@
 # etl-cloud-batch-processing
-# Batch Processing Cases
+# ETL Cloud and Batch Processing Case
 
 ## Overview
 Tech companies used to require having their own on-premise servers to operate ETLs on their data. Of course, numerous companies would have to face issues on scalability, data loss, hardware failure, etc. With the appearance of cloud services offered by major tech companies, this was changed, as they provided shared-computing resources on the cloud which is able to solve most issues found on on-premise servers.
