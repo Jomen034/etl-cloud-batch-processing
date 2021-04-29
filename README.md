@@ -90,3 +90,8 @@ In the Google Cloud Big Query, the result is
 
 ![image](https://user-images.githubusercontent.com/71366136/115997040-d0a11200-a60b-11eb-9d33-4daf3c2f6998.png)
 
+# Conclusion
+* ETL in traditional way was made use of physical warehouses to store the integrated data from various sources. 
+* **With Cloud ETL, both, the sources from where companies bring in the data and the destination data warehouses are purely online.** 
+* There is no physical data warehouse or any other hardware that a business needs to maintain. 
+* **Cloud ETL** manages these dataflows with the help of robust Cloud ETL Tools that **allows users to create and monitor automated ETL data pipelines, also allowing users to use diverse data for analysis all through a single user interface.** 
