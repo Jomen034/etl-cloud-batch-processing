@@ -1,9 +1,11 @@
-# etl-cloud-batch-processing
 # ETL Cloud and Batch Processing Case
 
 ## Overview
 Tech companies used to require having their own on-premise servers to operate ETLs on their data. Of course, numerous companies would have to face issues on scalability, data loss, hardware failure, etc. With the appearance of cloud services offered by major tech companies, this was changed, as they provided shared-computing resources on the cloud which is able to solve most issues found on on-premise servers.
 This repo is to set up a Google Cloud Composer environment and solve several batch-processing cases by creating DAGs to run ETL jobs in the cloud. The data processing consists of ETLs with data going in and from GCS and BigQuery
+
+![image](https://user-images.githubusercontent.com/71366136/117530908-ee0dad00-b009-11eb-8e45-3ff338b5bd33.png)
+
 
 ## ETL Cloud
 Cloud ETL entails extracting data from diverse source systems, transforming it to a common format, and loading the consolidated data into the data warehouse platform to best serve the needs of enterprise business intelligence, reporting and analytics.
